@@ -31,3 +31,7 @@ PRO GAMING SKILLS: COD, PES, FIFA,
 1. visually captivating clip designer
 2. not-gay dude
 3. did you know that i've never called a chica on ma phone before? (+100000000000000000 aura) 
+
+here is the link to my [GitHub profile](https://github.com/trustonyekwere)
+
+aura: 100% ![me](/Tee_pfp.jpg)
