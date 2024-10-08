@@ -9,5 +9,12 @@ learning how to use the markdown language for documentation.
 ##### heading 5
 ###### heading 6
 
-greatness united is dead
-lorem ipsum lol jackie chan tech chain airdrop
+PRO GAMING SKILLS: COD, PES, FIFA, 
+
+**Trust Onyekwere**
+
+*Creativity lurks within!*
+
+> Hey there, i'm a frontend and soon to be backend web designer and robotics enthusiast... 
+
+~~Pro gamer~~
