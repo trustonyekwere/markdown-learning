@@ -18,3 +18,16 @@ PRO GAMING SKILLS: COD, PES, FIFA,
 > Hey there, i'm a frontend and soon to be backend web designer and robotics enthusiast... 
 
 ~~Pro gamer~~
+
+## Skills
+
+* COD
+* PES
+* Robot builder
+* supercar driver (racist)
+* pro gamer
+
+## Abilities (mantra)
+1. visually captivating clip designer
+2. not-gay dude
+3. did you know that i've never called a chica on ma phone before? (+100000000000000000 aura) 
