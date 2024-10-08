@@ -35,3 +35,12 @@ PRO GAMING SKILLS: COD, PES, FIFA,
 here is the link to my [GitHub profile](https://github.com/trustonyekwere)
 
 aura: 100% ![me](/Tee_pfp.jpg)
+
+```
+.bold-text{
+    font-weight: bold;
+}
+```
+
+`color:blue;`
+
